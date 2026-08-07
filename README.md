@@ -4,7 +4,7 @@ A business-ready machine learning dashboard that predicts
 which telecom customers are likely to leave — and explains 
 exactly why using SHAP explainability.
 
-🔗 **Live Demo:** [your-app-name.streamlit.app](your-link-here)
+🔗 **Live Demo:** https://churndashboardai.streamlit.app/
 
 ---
 
